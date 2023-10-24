@@ -1,4 +1,4 @@
-## Hi there 👋
+## LIBF Fintech Society
 
 This organisation is for the Fintech society and all its members
 
