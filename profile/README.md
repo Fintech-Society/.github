@@ -13,8 +13,6 @@ fintechsociety@edu.libf.ac.uk
 Oliver De Fusco
 - https://www.linkedin.com/in/oliver-de-fusco/
 
-### President
-
 # Whatsapp group : 
 
 https://chat.whatsapp.com/GdHFMOe1goQ5RtRcYe7ptc
