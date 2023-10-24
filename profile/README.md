@@ -11,9 +11,11 @@ Topics can include but not limited too :
 - Deep Learning and Machine learning
 - Excel
 
+Wiki -> https://github.com/Fintech-Society/.github/wiki
+
 # Leadership structure
 
-Leadership roles inside the fintech society and their respective responsibilities.
+Current leadership roles inside the fintech society and their respective responsibilities.
 
 ## President
 
