@@ -1,25 +1,25 @@
-# LIBF Fintech society
+# Fintech society
 
-This organisation is the LIBF Fintech society. Here you can find all the past topics covered by the individual members or as a group.
+This organisation page is for the London institute of banking and finance's Fintech society. Here you can find all the past topics covered by the individual members or as a group.
 
-# Society Email
+The overall goal of the society is to improve and develop skills further for topics which are closely related to fintech or technology for the society members.
 
-fintechsociety@edu.libf.ac.uk
+Topics can include but not limited too :
+- Quantitative Finance
+- Python
+- Analysis of indiviual Fintech companies
+- Blockchain and distributed ledger technology
+- Data analysis
+- Deep Learning and Machine learning
+- Excel
 
 # Leadership structure
 
+Leadership roles inside the fintech society and their respective responsibilities.
+
 ## President
+
+The president is responsible for the overall decisions and direction of the society.
 
 Oliver De Fusco
 - https://www.linkedin.com/in/oliver-de-fusco/
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
