@@ -2,19 +2,16 @@
 
 This organisation is the LIBF Fintech society. Here you can find all the past topics covered by the individual members or as a group.
 
-# Email
+# Society Email
 
 fintechsociety@edu.libf.ac.uk
 
 # Leadership structure
 
-## Current
+## President
 
-### President
-
-Oliver De Fusco 2023 - Current
-
-## Past Leadership
+Oliver De Fusco
+- https://www.linkedin.com/in/oliver-de-fusco/
 
 ### President
 
