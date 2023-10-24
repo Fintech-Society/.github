@@ -1,5 +1,3 @@
-# Fintech society
-
 This organisation page is for the London institute of banking and finance's Fintech society. Here you can find all the past topics covered by the individual members or as a group.
 
 The overall goal of the society is to improve and develop skills further for topics which are closely related to fintech or technology for the society members.
